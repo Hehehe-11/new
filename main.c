@@ -1,9 +1,4 @@
-//
-//  main.c
-//  palindrome
-//
-//  Created by Dyumna on 20/07/24.
-//
+
 
 #include <stdio.h>
 
